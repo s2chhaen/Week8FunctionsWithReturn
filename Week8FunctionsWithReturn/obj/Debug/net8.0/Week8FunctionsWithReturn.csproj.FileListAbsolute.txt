@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\bin\Debug\net8.0\Week8FunctionsWithReturn.exe
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\bin\Debug\net8.0\Week8FunctionsWithReturn.deps.json
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\bin\Debug\net8.0\Week8FunctionsWithReturn.runtimeconfig.json
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\bin\Debug\net8.0\Week8FunctionsWithReturn.dll
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\bin\Debug\net8.0\Week8FunctionsWithReturn.pdb
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\obj\Debug\net8.0\Week8FunctionsWithReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\obj\Debug\net8.0\Week8FunctionsWithReturn.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\obj\Debug\net8.0\Week8FunctionsWithReturn.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\obj\Debug\net8.0\Week8FunctionsWithReturn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\obj\Debug\net8.0\Week8FunctionsWithReturn.dll
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\obj\Debug\net8.0\refint\Week8FunctionsWithReturn.dll
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\obj\Debug\net8.0\Week8FunctionsWithReturn.pdb
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\obj\Debug\net8.0\Week8FunctionsWithReturn.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Week8FunctionsWithReturn\Week8FunctionsWithReturn\obj\Debug\net8.0\ref\Week8FunctionsWithReturn.dll
